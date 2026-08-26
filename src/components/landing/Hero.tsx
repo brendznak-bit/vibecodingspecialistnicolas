@@ -33,11 +33,10 @@ export function Hero() {
           </a>
         </div>
 
-        <div className="mt-12 flex items-center gap-3" aria-hidden>
-          <span className="h-2.5 w-2.5 rounded-full bg-primary" />
-          <span className="h-px w-24 bg-primary/50 sm:w-48" />
-          <span className="h-px flex-1 bg-border" />
-        </div>
+        <div
+          className="mt-12 h-px w-full max-w-md bg-linear-to-r from-primary via-emerald-deep to-primary/0"
+          aria-hidden
+        />
       </div>
     </section>
   );
