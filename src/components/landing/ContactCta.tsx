@@ -1,7 +1,7 @@
 import { Mail, Send } from "lucide-react";
 
-export const TELEGRAM_URL = "https://t.me/username";
-export const EMAIL = "hello@example.com";
+export const TELEGRAM_URL = "https://t.me/@nikolyavasili";
+export const EMAIL = "brendznak@gmail.com";
 
 export function ContactCta() {
   return (
