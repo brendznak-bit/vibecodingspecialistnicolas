@@ -25,7 +25,7 @@ const services = [
 
 export function Services() {
   return (
-    <section id="services" className="mx-auto max-w-6xl px-5 py-11 sm:px-8 md:py-20">
+    <section id="services" className="mx-auto max-w-6xl px-5 py-9 sm:px-8 md:py-14">
       <h2 className="text-2xl font-bold sm:text-4xl">Что я делаю</h2>
       <p className="mt-3 max-w-lg text-muted-foreground">
         Небольшой набор услуг, который закрывает путь от идеи до работающей страницы.
