@@ -1,4 +1,4 @@
-import { Blocks, Calculator, Plug, Smartphone, Target } from "lucide-react";
+import { Blocks, Calculator, Plug, Target } from "lucide-react";
 
 const services = [
   {
@@ -20,11 +20,6 @@ const services = [
     icon: Plug,
     title: "Интеграции",
     text: "CRM, платёжки и приём заявок — данные не теряются.",
-  },
-  {
-    icon: Smartphone,
-    title: "Адаптив и SEO",
-    text: "Аккуратная мобильная версия и базовая техническая оптимизация.",
   },
 ];
 
