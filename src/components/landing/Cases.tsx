@@ -19,12 +19,6 @@ const cases = [
     goal: "Считать смету и сразу отправлять её в CRM.",
     metrics: ["-40% ручной работы", "CR 6,1%"],
   },
-  {
-    title: "Промо новой SaaS-фичи",
-    niche: "Стартап",
-    goal: "Прогреть базу и собрать early access.",
-    metrics: ["+52% регистраций", "CTR 5,4%"],
-  },
 ];
 
 export function Cases() {
