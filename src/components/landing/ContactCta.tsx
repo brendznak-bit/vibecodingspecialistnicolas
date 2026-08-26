@@ -5,7 +5,7 @@ export const EMAIL = "hello@example.com";
 
 export function ContactCta() {
   return (
-    <section id="contact" className="px-5 pb-14 pt-11 sm:px-8 md:pb-24 md:pt-20">
+    <section id="contact" className="px-5 pb-12 pt-9 sm:px-8 md:pb-16 md:pt-14">
       <div className="relative mx-auto max-w-6xl overflow-hidden rounded-3xl bg-foreground px-6 py-12 text-background sm:px-12 md:py-20">
         <div
           aria-hidden

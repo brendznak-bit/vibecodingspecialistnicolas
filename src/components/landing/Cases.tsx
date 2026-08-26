@@ -23,7 +23,7 @@ const cases = [
 
 export function Cases() {
   return (
-    <section id="cases" className="bg-card/60 py-11 md:py-20">
+    <section id="cases" className="bg-card/60 py-9 md:py-14">
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
         <h2 className="text-2xl font-bold sm:text-4xl">Избранные проекты</h2>
         <p className="mt-3 max-w-xl text-muted-foreground">

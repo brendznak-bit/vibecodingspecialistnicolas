@@ -38,7 +38,7 @@ export function Process() {
   const [active, setActive] = useState(1);
 
   return (
-    <section id="process" className="mx-auto max-w-6xl px-5 py-11 sm:px-8 md:py-20">
+    <section id="process" className="mx-auto max-w-6xl px-5 py-9 sm:px-8 md:py-14">
       <h2 className="text-2xl font-bold sm:text-4xl">Как я работаю</h2>
       <p className="mt-3 max-w-lg text-muted-foreground">
         Прозрачный процесс: понятно, что происходит на каждом шаге и сколько это займёт.
